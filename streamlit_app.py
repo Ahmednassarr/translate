@@ -1,4 +1,5 @@
 # app.py
+# This is a simple Streamlit app that translates English text to French using Hugging Face's Transformers library.z
 import streamlit as st
 from transformers import pipeline
 
